@@ -9,3 +9,7 @@ Key areas covered:
 - Power BI dashboard development
 - Excel-based forecasting and inventory analysis
 - Business insights generation for SCM decision-making
+
+## Excel Workbook 
+View Excel KPI and Forecast Report
+https://drive.google.com/drive/folders/1RIfXHPBxEx1jMF9A0WcWhhKOtufU69X4?usp=sharing
