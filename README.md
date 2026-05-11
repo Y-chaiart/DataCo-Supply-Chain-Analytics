@@ -1,2 +1,11 @@
 # DataCo-Supply-Chain-Analytics
-End to end supply chain analytics project using Sql, Excel and PowerBI
+This project demonstrates an end-to-end Supply Chain Analytics workflow using SQL Server, MS Excel, and Power BI.
+
+# Project Overview
+The solution focuses on delivery performance, OTIF analysis, profitability tracking, demand trends, forecasting, and inventory planning using the DataCo Supply Chain dataset.
+Key areas covered:
+- Data ingestion and cleaning using SQL
+- KPI calculations and analytical SQL views
+- Power BI dashboard development
+- Excel-based forecasting and inventory analysis
+- Business insights generation for SCM decision-making
